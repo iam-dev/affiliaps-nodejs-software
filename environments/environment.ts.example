@@ -1,0 +1,7 @@
+export const environment = {
+    production: false,
+    username: 'test',
+    password: 'password123',
+    secret: 'secret123',
+    mongodb: '@test.mlab.com:41530/testproject'
+};
